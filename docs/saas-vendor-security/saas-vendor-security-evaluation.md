@@ -4,6 +4,7 @@ blog:
   slug: saas-vendor-security-evaluation
   title: "SaaS Vendor Security Evaluation: A Practical Guide"
   description: How to run a security evaluation when a new SaaS vendor lands on your desk, including risk tiering, what to check, reading a SOC 2, Singapore and global compliance, and starter templates.
+  image: https://raw.githubusercontent.com/adi-param/enterprise-security-governance/main/docs/saas-vendor-security/assets/saas-vendor-security-evaluation-hero.png
   date: 2026-06-28
   tags:
     - cybersecurity
@@ -14,6 +15,8 @@ blog:
 ---
 
 # SaaS Vendor Security Evaluation: A Practical Guide
+
+![Illustration showing a SaaS vendor security evaluation with intake, tiering, evidence review, access risk, contracts, and monitoring](https://raw.githubusercontent.com/adi-param/enterprise-security-governance/main/docs/saas-vendor-security/assets/saas-vendor-security-evaluation-hero.png)
 
 A request lands on your desk: a team wants to start using a new SaaS tool. By the time it reaches you, the decision has usually *already been made*. Someone ran a trial, the champion loves it, the budget's been sketched out, and now they just need security to "sign off." You're not being asked to help choose. You're being asked to bless something, or to be the department of no.
 
